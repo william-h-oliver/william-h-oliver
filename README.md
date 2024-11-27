@@ -4,5 +4,5 @@
 - 📫 Feel free to get in contact with me via my email: [william.oliver@iwr.uni-heidelberg.de](mailto:william.oliver@iwr.uni-heidelberg.de) or [william.hardie.oliver@gmail.com](mailto:william.hardie.oliver@gmail.com)
 
 <p align="center">
-  <img src="https://github.com/william-h-oliver/william-h-oliver/blob/main/MW02.gif" alt="Clusters in simulated Milky Way-like galaxy found with AstroLink"/>
+  <img src="https://github.com/william-h-oliver/william-h-oliver/blob/main/g2.79e12_fuzzycat_and_astrolink.gif" alt="Clusters in simulated Milky Way-like galaxy found with the FuzzyCat + AstroLink pipeline."/>
 </p>
