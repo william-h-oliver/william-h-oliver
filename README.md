@@ -12,9 +12,11 @@ I'm broadly interested in:
 
 ### 🌀 Visual summary of my work
 
-![Hierarchical clustering visualization](https://raw.githubusercontent.com/william-h-oliver/william-h-oliver/main/astrolink_demo.gif)
+<p align="center">
+  <img src="https://github.com/william-h-oliver/william-h-oliver/blob/main/g2.79e12_fuzzycat_and_astrolink.gif" alt="Clusters in simulated Milky Way-like galaxy found with the FuzzyCat + AstroLink pipeline."/>
+</p>
 
-*(Example output from **AstroLink**, a hierarchical clustering method for astrophysical data.)*
+*(Clusters in simulated Milky Way-like galaxy found with the **FuzzyCat + AstroLink** pipeline. Watch more movies like this [here](https://fuzzycat.readthedocs.io/en/latest/phasetemporalclustering.html#results-let-s-visualise-the-clusters)*
 
 ---
 
@@ -22,16 +24,16 @@ I'm broadly interested in:
 
 | Project | Description |
 |---|---|
-| **[AstroLink](https://github.com/william-h-oliver/astrolink)** | A hierarchical clustering algorithm for astrophysical datasets. Provides stable, interpretable structure trees with minimal tuning. |
-| **[FuzzyCat](https://github.com/william-h-oliver/fuzzycat)** | A toolkit for fuzzy cluster propagation and ensemble consensus, useful for quantifying uncertainty in hierarchical classifications. |
-| **[Fishereyes](https://github.com/william-h-oliver/fishereyes)** | A JAX-based framework for learning diffeomorphic transformations of heteroskedastic data — aligning local covariances to the identity for uncertainty-aware representation learning. |
+| **[AstroLink](https://github.com/william-h-oliver/astrolink)** | A hierarchical clustering algorithm built for large astrophysical datasets. Provides robust and interpretable structure with minimal parameter tuning. |
+| **[FuzzyCat](https://github.com/william-h-oliver/fuzzycat)** | An unsupervised and data-blind algorithm built to account for the effects of *change-processes* on clusters. Useful for propagating uncertainties, constructing time-invariant labels, and abstracting over model choices. |
+| **[Fishereyes](https://github.com/william-h-oliver/fishereyes)** | A JAX-based framework for uncertainty-aware representation learning of heteroskedastic data. Provides a multi-dimensional precision-weighted embedding of the data into Euclidean space where measuring distances is easy. |
 
 ---
 
 ## 🧠 Skills & Tools
 
-**Languages:** Python, JAX, NumPy, SciPy  
-**Machine Learning:** PyTorch, scikit-learn, Flow-based models, Neural ODEs, PINNs  
+**Languages:** Python, Numba, NumPy, SciPy 
+**Machine Learning:** JAX, PyTorch, scikit-learn, Flow-based models, Neural ODEs
 **Astronomical Tooling:** Astropy, HEALPix, Gaia DR3 data handling  
 **Development:** Git, pytest, Jupyter, documentation automation (Sphinx), CI/CD workflows
 
@@ -43,7 +45,3 @@ I’m always open to discussions or collaborations on topics related to **machin
 If you’d like to get in touch, feel free to open an issue on any of my repositories or reach out directly by email.
 
 📧 william.oliver@iwr.uni-heidelberg.de | william.hardie.oliver@gmail.com
-
-<p align="center">
-  <img src="https://github.com/william-h-oliver/william-h-oliver/blob/main/g2.79e12_fuzzycat_and_astrolink.gif" alt="Clusters in simulated Milky Way-like galaxy found with the FuzzyCat + AstroLink pipeline."/>
-</p>
