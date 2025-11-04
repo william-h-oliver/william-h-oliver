@@ -27,8 +27,8 @@ I'm broadly interested in:
 
 ## 🧠 Skills & Tools
 
-**Languages:** Python, Numba, NumPy, SciPy
-**Machine Learning:** JAX, PyTorch, scikit-learn, Flow-based models, Neural ODEs
+**Languages:** Python, Numba, NumPy, SciPy  
+**Machine Learning:** JAX, PyTorch, scikit-learn, Flow-based models, Neural ODEs  
 **Astronomical Tooling:** Astropy, HEALPix, Gaia DR3 data handling  
 **Development:** Git, pytest, Jupyter, documentation automation (Sphinx), CI/CD workflows
 
