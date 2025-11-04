@@ -11,7 +11,7 @@ I'm broadly interested in:
   <img src="https://github.com/william-h-oliver/william-h-oliver/blob/main/g2.79e12_fuzzycat_and_astrolink.gif" alt="Clusters in simulated Milky Way-like galaxy found with the FuzzyCat + AstroLink pipeline."/>
 </p>
 
-*(Clusters in simulated Milky Way-like galaxy found with the **FuzzyCat + AstroLink** pipeline. Watch more movies like this [here](https://fuzzycat.readthedocs.io/en/latest/phasetemporalclustering.html#results-let-s-visualise-the-clusters).*
+*(Clusters in simulated Milky Way-like galaxy found with the **FuzzyCat + AstroLink** pipeline. Watch more movies like this [here](https://fuzzycat.readthedocs.io/en/latest/phasetemporalclustering.html#results-let-s-visualise-the-clusters).)*
 
 ---
 
